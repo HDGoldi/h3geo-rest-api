@@ -1,0 +1,5 @@
+fastapi
+fastapi-security
+h3
+pydantic
+uvicorn
